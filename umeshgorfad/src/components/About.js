@@ -14,14 +14,14 @@ const About = () => {
         <div className="about">
           <div className="about-details">
             <p>
-              Hello! I'm Umesh Gorfad, a passionate software developer. I
-              develop web applications, mobile applications, and desktop
-              applications. My core skill is based on JavaScript and I love to
-              do most of the things using JavaScript. I love to make the web
-              more open to the world. I have graduated with a bachelor's degree
-              in Commerce with Computer Science from BKNMU- at Junagadh Gujarat,
-              India in 2020. I am available for any kind of job opportunity that
-              suits my interests.
+              Hello! I'm Kartik Sagar, a passionate Electrical Engineer.
+              My passion is using engineering to improve pepople's lives,
+              and giving pepole the tools they need to do the same.
+              currently, I'am  pursuing my third year Bachelor of Engineering in Electrical.
+              from Gujarat Technological University- at Ahmedabad Gujarat,
+              in 2021,I am available for any kind of job opportunity that suits my interests.
+              and this site is a collection of my work throughout my undergraduate studies.
+              Please have a look around.
             </p>
             <div className="about-action">
               <Button clickEvent link="#skill" ml="15px" title="My Skills" />

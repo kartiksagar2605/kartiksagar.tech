@@ -1,19 +1,20 @@
 export const skills = {
   Web: [
+
+    { name: "TinkerCad", percent: 90 },
+    { name: "Arduino ADE", percent: 80 },
+    { name: "C", percent: 75 },
+    { name: "C++", percent: 75 },
     { name: "HTML", percent: 90 },
     { name: "CSS", percent: 65 },
-    { name: "React", percent: 90 },
-    { name: "Gatsby", percent: 80 },
-    { name: "Node JS", percent: 80 },
-    { name: "Firebase", percent: 80 },
     // { name: "MongoDB", percent: 90 },
     // { name: "MySQL", percent: 85 },
   ],
   Others: [
-    { name: "UI/UX Design", percent: 80 },
+    { name: "AutoCAD", percent: 80 },
     { name: "Graphic Design", percent: 80 },
-    // { name: "Johnny Five", percent: 75 },
-    // { name: "Svelte", percent: 70 },
+    { name: "Matlab", percent: 70 },
+    { name: "MS Office", percent: 80 },
     // { name: "Redux", percent: 80 },
     // { name: "GraphQL", percent: 80 },
     // { name: "Jest", percent: 65 },
@@ -30,7 +31,7 @@ export const skills = {
   // ],
   Tools: [
     { name: "Git", percent: 90 },
-    { name: "Figma", percent: 75 },
+    { name: "Photo shop", percent: 75 },
     { name: "Illustrator", percent: 70 },
     { name: "Adobe Xd", percent: 85 },
     // { name: "Kubernetes", percent: 30 },

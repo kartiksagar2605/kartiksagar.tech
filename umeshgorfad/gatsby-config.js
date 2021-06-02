@@ -1,11 +1,10 @@
 module.exports = {
   siteMetadata: {
-    title: `Web Developer`,
+    title: `Electrical Engineer`,
     description: `My personal portfolio website`,
     author: `@umeshg`,
   },
   plugins: [
-    `gatsby-plugin-react-helmet`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     {

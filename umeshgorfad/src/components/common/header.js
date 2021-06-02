@@ -94,7 +94,7 @@ const Header = () => {
                 className="btn-download"
                 target="_blank"
                 rel="noopener noreferrer"
-                href="https://github.com/gorfadumesh/gorfadumesh/raw/master/umeshgorfad/src/data/file/Umseh_Gorfad_Resume.pdf"
+                href="https://github.com/kartiksagar2605/kartik-resume/raw/main/kartik%20resume.pdf"
               >
                 Resume
               </a>
