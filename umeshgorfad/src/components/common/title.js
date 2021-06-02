@@ -21,7 +21,7 @@ export const Title = ({ title, social, side, height }) => {
             <a
               target="_blank"
               rel="noopener noreferrer"
-              href="https://github.com/gorfadumesh"
+              href="https://github.com/kartiksagar2605"
             >
               <FaGithub />
             </a>
@@ -30,7 +30,7 @@ export const Title = ({ title, social, side, height }) => {
             <a
               target="_blank"
               rel="noopener noreferrer"
-              href="https://www.linkedin.com/in/gorfad-umesh-98711b198/"
+              href="https://www.linkedin.com/in/kartik2605/"
             >
               <FaLinkedinIn />
             </a>
@@ -39,7 +39,7 @@ export const Title = ({ title, social, side, height }) => {
             <a
               target="_blank"
               rel="noopener noreferrer"
-              href="https://www.instagram.com/umesh_g_13/"
+              href="https://www.instagram.com/kartiksagar_/"
             >
               <FaInstagram />
             </a>
@@ -48,7 +48,7 @@ export const Title = ({ title, social, side, height }) => {
             <a
               target="_blank"
               rel="noopener noreferrer"
-              href="https://www.facebook.com/gorfadumesh121312"
+              href="https://www.facebook.com/profile.php?id=100009773677381"
             >
               <FaFacebook />
             </a>
@@ -57,7 +57,7 @@ export const Title = ({ title, social, side, height }) => {
             <a
               target="_blank"
               rel="noopener noreferrer"
-              href="https://twitter.com/Umesh99745"
+              href="https://twitter.com/Kartiksagar_"
             >
               <FaTwitter />
             </a>

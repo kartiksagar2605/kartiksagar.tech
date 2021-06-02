@@ -13,7 +13,7 @@ import { Layout, SEO } from "../components/common"
 const IndexPage = () => (
   <>
     <Layout>
-      <SEO title="Umesh Gorfad" />
+      <SEO title="Kartik Sagar" />
       <Intro />
       <About />
       <Skill />

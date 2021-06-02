@@ -23,13 +23,13 @@ const PortfolioAction = () => {
     e.preventDefault()
     clearTimeout()
     setTitle("Showing More...")
-    setTimeout(() => {}, 1000)
+    setTimeout(() => { }, 1000)
   }
   return (
     <div className="portfolio-action">
       <Button
         target="__blank"
-        link="https://github.com/gorfadumesh"
+        link="https://github.com/kartiksagar2605"
         onMouseOver={handleMouseOver}
         onMouseOut={handleOnMouseOut}
         onClick={handleClick}

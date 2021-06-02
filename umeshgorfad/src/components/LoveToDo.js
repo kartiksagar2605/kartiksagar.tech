@@ -26,11 +26,11 @@ const LoveToDo = () => {
           </div>
           <div className="stickpad">
             <img alt="" src={travelling} />
-            <h4>travelling</h4>
+            <h4>Travelling</h4>
           </div>
           <div className="stickpad">
             <img alt="" src={music} />
-            <h4>Playing instruments</h4>
+            <h4>Listening songs</h4>
           </div>
         </div>
       </Container>
